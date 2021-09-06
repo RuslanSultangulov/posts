@@ -1,0 +1,12 @@
+ru:
+  hello: "Привет"
+  title: "Название"
+  body: "Текст"
+  published: "Опубликована"
+  new_post: "Новая статья"
+  posts: "Статьи"
+  show: "Открыть"
+  edit: "Изменить"
+  destroy: "Удалить"
+  are_you_sure: "Вы уверены?"
+  back: "Назад"

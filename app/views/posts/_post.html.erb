@@ -1,0 +1,5 @@
+<td><%= post.title %></td>
+<td><%= post.body %></td>
+<td><%= link_to t('show'), post %></td>
+<td><%= link_to t('edit'), edit_post_path(post) %></td>
+<td><%= link_to t('destroy'), post, method: :delete, data: { confirm: t('are_you_sure') } %></td>
